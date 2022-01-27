@@ -1,0 +1,13 @@
+body{
+    background-color: hsl(0, 0%, 100%);
+}
+h1{
+    font-family:'Bebas Neue', Arial, Helvetica, cursive;
+    color:hsl(209, 88%, 66%);
+    font-size: 500%;
+
+}
+p{
+    font-size: 200%;
+    color: orange;
+}
